@@ -2,6 +2,8 @@
 _think writing python is just for server-side code and data science? check out 28 other things you can do with python._
 and it’s just show code, show demo, talk about what’s happening * 30
 
+
+
 criteria
 a. can involve module that is imported and used in a script
 b. excludes programs which are written in python, and don't involve writing your own code with Python
@@ -64,11 +66,11 @@ d. should be kakkoii!
 52. convert a web document to pdf - https://github.com/Kozea/WeasyPrint
 53. measure distance between two points - https://github.com/geopy/geopy
 54. find your geolocation - https://github.com/geopy/geopy
-55. backest a trading strategy - https://github.com/cuemacro/finmarketpy
+55. backtest a trading strategy - https://github.com/cuemacro/finmarketpy
 56. train a bot/AI to play a game/RTS/go/atari - https://github.com/facebookresearch/ELF
 57. Write desktop and web apps in pure Python - https://github.com/flexxui/flexx
 58. use reddit - https://github.com/praw-dev/praw
-59. summarise text or html pages - https://github.com/miso-belica/sumy
+59. summarize text or html pages - https://github.com/miso-belica/sumy
 60. write an excel file - https://github.com/jmcnamara/XlsxWriter
 61. connect to slack - https://github.com/slackapi/python-slackclient
 62. stalk someone, download all their instagram media - https://github.com/rarcega/instagram-scraper
@@ -88,3 +90,8 @@ d. should be kakkoii!
 76. manage multiple scheduled workflows - https://github.com/apache/incubator-airflow
 77. judge things with shape profiles - mine!
 78. make a gui - pyqt
+79. write a notebook from a text editor - https://github.com/mwouts/jupytext
+80. create a command line tool
+81. make a word cloud -
+82. make PDFs - fpdf
+83. make a command line tool

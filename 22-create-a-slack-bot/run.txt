@@ -1,0 +1,4 @@
+python slackbot_snakes.py
+./ngrok http 3000
+https://api.slack.com/apps/ADNP2FB36/event-subscriptions?
+change request URL to ngrok url

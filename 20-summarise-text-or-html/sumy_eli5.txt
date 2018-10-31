@@ -1,0 +1,14 @@
+    parser = HtmlParser.from_url(url, Tokenizer(LANGUAGE))
+    stemmer = Stemmer(LANGUAGE)
+
+    summarizer = Summarizer(stemmer)
+    summarizer.stop_words = get_stop_words(LANGUAGE)
+
+    for sentence in summarizer(parser.document, SENTENCES_COUNT):
+        print(sentence)
+
+reads html
+splits the giganto-string into different words with meanings
+reduces words to their stems (eating -> eat)
+filters out stop words, grammatical words like 'the', 'is', 'are'
+Summarizer ranks the sentences by importance.

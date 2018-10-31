@@ -1,0 +1,3 @@
+using pyqt as a desktop GUI library
+PyQt5.QtGui.QPlainTextEdit object
+setup Actions which are linked to python methods, a tooltip, an icon
