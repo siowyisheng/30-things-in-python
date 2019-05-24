@@ -1,0 +1,9 @@
+# logic and script
+scripts.rpy
+
+# project metadata
+options.rpy
+
+# these define what the UI looks like
+screens.rpy
+gui.rpy

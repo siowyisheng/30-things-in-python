@@ -1,2 +1,6 @@
 .mypy_cache/
 .DS_Store
+.vscode/
+.ipynb_checkpoints/
+.sqlite
+__pycache__/
